@@ -1,8 +1,8 @@
 # attendance-portal
-##Discription##
+## Discription ##
 A simple Node.js website with two different portals; Staff and Student. Staff can mark attendance and create new announcements, whereas students can check their attendance and view new announcements.
 
-##Steps to run##
+## Steps to run ##
 1. Open the folder path in cmd and type **npm init**. Make sure the entry point is **app.js**
 2. Type **npm install** to install all the dependencies
 3. Install MongoDB Compass and click on connect.
