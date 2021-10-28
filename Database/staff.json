@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6173e869cae3df1f06c3871d"
+  },
+  "staff_id": "20200101",
+  "password": "staff@1",
+  "email": "staff1@gmail.com"
+},{
+  "_id": {
+    "$oid": "6173e8dbcae3df1f06c3871f"
+  },
+  "staff_id": "20200102",
+  "password": "staff@2",
+  "email": "staff2@gmail.com"
+},{
+  "_id": {
+    "$oid": "6173e8e8cae3df1f06c38720"
+  },
+  "staff_id": "20200103",
+  "password": "staff@3",
+  "email": "staff3@gmail.com"
+}]

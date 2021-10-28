@@ -1,0 +1,56 @@
+body{
+    background-image: url("../images/home-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home-heading{
+    padding-top: 3%;
+    padding-left: 12%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+}
+.home-heading p{
+    letter-spacing: 7px;
+    font-size: 50px;
+}
+.home-heading h4{
+    line-height: 35px;
+}
+.content{
+    height:max-content;
+    /*background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 50%, rgba(78,69,222,1) 100%, rgba(19,5,255,1) 100%);
+    */
+}
+.left-content{
+    padding-top: 5%;
+    padding-left: 12%;
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+    
+}
+.left-content p{
+    font-size: 25px;
+    margin-right: 35%;
+    text-align: justify;
+    padding-bottom: 30px;
+}
+.left-content i{
+    color: rgb(70, 65, 59);
+    font-size: 60px;
+    padding-bottom: 25px;
+}
+.left-content h1{
+    padding-left: 30px;
+}
+.right-content{
+    text-align: center;
+}
+.right-content i{
+    color: rgb(70, 65, 59);
+    text-align: center;
+}
+.right-content p{
+    font-size: 25px;
+    padding-top: 5%;   
+}

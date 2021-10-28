@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "61757b3503a1df80b9fd7052"
+  },
+  "prn": "110011",
+  "name": "stud1",
+  "lecNo": "1",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "61757b9103a1df80b9fd7053"
+  },
+  "prn": "110012",
+  "name": "stud2",
+  "lecNo": "1",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "61757b9d03a1df80b9fd7054"
+  },
+  "prn": "110013",
+  "name": "stud3",
+  "lecNo": "1",
+  "status": "a"
+},{
+  "_id": {
+    "$oid": "61757baa03a1df80b9fd7055"
+  },
+  "prn": "110011",
+  "name": "stud1",
+  "lecNo": "2",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "61757bb303a1df80b9fd7056"
+  },
+  "prn": "110012",
+  "name": "stud2",
+  "lecNo": "2",
+  "status": "a"
+},{
+  "_id": {
+    "$oid": "61757bc103a1df80b9fd7057"
+  },
+  "prn": "110013",
+  "name": "stud3",
+  "lecNo": "2",
+  "status": "a"
+},{
+  "_id": {
+    "$oid": "61759681e4c63635fd013d11"
+  },
+  "prn": "110011",
+  "name": "stud1",
+  "lecNo": "3",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "61759681e4c63635fd013d12"
+  },
+  "prn": "110012",
+  "name": "stud2",
+  "lecNo": "3",
+  "status": "a"
+},{
+  "_id": {
+    "$oid": "61759681e4c63635fd013d13"
+  },
+  "prn": "110013",
+  "name": "stud3",
+  "lecNo": "3",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6177e9237025590a4ac6932b"
+  },
+  "prn": "110011",
+  "name": "stud1",
+  "lecNo": "4",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6177e9237025590a4ac6932c"
+  },
+  "prn": "110012",
+  "name": "stud2",
+  "lecNo": "4",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6177e9237025590a4ac6932d"
+  },
+  "prn": "110013",
+  "name": "stud3",
+  "lecNo": "4",
+  "status": "a"
+},{
+  "_id": {
+    "$oid": "6177e9237025590a4ac6932e"
+  },
+  "prn": "110014",
+  "name": "stud4",
+  "lecNo": "4",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6177e9237025590a4ac6932f"
+  },
+  "prn": "110015",
+  "name": "stud5",
+  "lecNo": "4",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6179898d286ad28ea3d1be1a"
+  },
+  "prn": "110011",
+  "name": "stud1",
+  "lecNo": "5",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6179898d286ad28ea3d1be1b"
+  },
+  "prn": "110012",
+  "name": "stud2",
+  "lecNo": "5",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6179898d286ad28ea3d1be1c"
+  },
+  "prn": "110013",
+  "name": "stud3",
+  "lecNo": "5",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6179898d286ad28ea3d1be1d"
+  },
+  "prn": "110014",
+  "name": "stud4",
+  "lecNo": "5",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "6179898d286ad28ea3d1be1e"
+  },
+  "prn": "110015",
+  "name": "stud5",
+  "lecNo": "5",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "617a6032ce7873506dad20e0"
+  },
+  "prn": "110011",
+  "name": "stud1",
+  "lecNo": "6",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "617a6032ce7873506dad20e1"
+  },
+  "prn": "110012",
+  "name": "stud2",
+  "lecNo": "6",
+  "status": "a"
+},{
+  "_id": {
+    "$oid": "617a6032ce7873506dad20e2"
+  },
+  "prn": "110013",
+  "name": "stud3",
+  "lecNo": "6",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "617a6032ce7873506dad20e3"
+  },
+  "prn": "110014",
+  "name": "stud4",
+  "lecNo": "6",
+  "status": "p"
+},{
+  "_id": {
+    "$oid": "617a6032ce7873506dad20e4"
+  },
+  "prn": "110015",
+  "name": "stud5",
+  "lecNo": "6",
+  "status": "a"
+}]

@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "617694a722118fb65da55ab4"
+  },
+  "header": "Lecture Cancelled",
+  "body": "Lecture number 101, Buiness Communication is cancelled for thursday, 20/11/21"
+},{
+  "_id": {
+    "$oid": "617695df22118fb65da55ab5"
+  },
+  "header": "National Holiday",
+  "body": "All classes will be cancelled on the account of a national holiday on Friday, 21/11/21"
+},{
+  "_id": {
+    "$oid": "617695f922118fb65da55ab6"
+  },
+  "header": "National Holiday",
+  "body": "All classes will be cancelled on the account of a national holiday on Monday, 23/11/21"
+},{
+  "_id": {
+    "$oid": "6176a023390562b127e54660"
+  },
+  "header": "Diwali vacation",
+  "body": "On the account for Diwali festival, institute will be closed from 1/11/21 to 10/11/12."
+},{
+  "_id": {
+    "$oid": "6177e8074c6f9da2dba10e3c"
+  },
+  "header": "Extra Lecture",
+  "body": "Nodejs extra lecture has been scheduled on Monday, 1/12/2021"
+},{
+  "_id": {
+    "$oid": "617a6084ce7873506dad20e5"
+  },
+  "header": "Extra Lecture",
+  "body": "Today we have an extra lecture"
+}]

@@ -1,0 +1,27 @@
+body{
+    background-image: url("../images/home-bg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.right-heading{
+    letter-spacing: 5px;
+    font-size: 55px;
+    text-align: center;
+    padding-top: 5%;
+}
+.form-group{
+    background-color: rgb(253, 208, 208);
+}
+label{
+    font-size: larger;
+}
+.btn_done, .btn_save{
+    padding: 5px 25px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    border: 1px solid grey;
+}
+.btn_done:hover, .btn_save:hover{
+    background-color: rgb(233, 233, 233);
+}
